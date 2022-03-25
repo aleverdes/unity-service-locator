@@ -2,6 +2,12 @@
 
 Implementation of the Service Locator pattern.
 
+## How to
+
+```csharp
+using AffenCode.ServiceLocator;
+```
+
 ```csharp
 public class GameStateData
 {
