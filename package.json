@@ -1,0 +1,16 @@
+{
+  "name": "com.affencode.service-locator",
+  "author": "AffenCode",
+  "displayName": "AffenCode Service Locator",
+  "description": "Implementation of the Service Locator pattern.",
+  "unity": "2020.3",
+  "version": "1.0.0",
+  "keywords": [
+    "service locator"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleverdes/service-locator.git"
+  }
+}
